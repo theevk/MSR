@@ -1,0 +1,42 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   MedScheduleRemastered.sln
+#	new file:   MedScheduleRemastered.v12.suo
+#	new file:   MedScheduleRemastered/App.config
+#	new file:   MedScheduleRemastered/Day.cs
+#	new file:   MedScheduleRemastered/DayShift.cs
+#	new file:   MedScheduleRemastered/EveningShift.cs
+#	new file:   MedScheduleRemastered/FreeShift.cs
+#	new file:   MedScheduleRemastered/MedScheduleRemastered.csproj
+#	new file:   MedScheduleRemastered/NightShift.cs
+#	new file:   MedScheduleRemastered/Nurse.cs
+#	new file:   MedScheduleRemastered/NurseCatalogue.txt
+#	new file:   MedScheduleRemastered/Plan.cs
+#	new file:   MedScheduleRemastered/Program.cs
+#	new file:   MedScheduleRemastered/Properties/AssemblyInfo.cs
+#	new file:   MedScheduleRemastered/Shift.cs
+#	new file:   MedScheduleRemastered/bin/Debug/MedScheduleRemastered.exe
+#	new file:   MedScheduleRemastered/bin/Debug/MedScheduleRemastered.exe.config
+#	new file:   MedScheduleRemastered/bin/Debug/MedScheduleRemastered.pdb
+#	new file:   MedScheduleRemastered/bin/Debug/MedScheduleRemastered.vshost.exe
+#	new file:   MedScheduleRemastered/bin/Debug/MedScheduleRemastered.vshost.exe.config
+#	new file:   MedScheduleRemastered/bin/Debug/MedScheduleRemastered.vshost.exe.manifest
+#	new file:   MedScheduleRemastered/bin/Debug/NurseCatalogue.txt
+#	new file:   MedScheduleRemastered/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   MedScheduleRemastered/obj/Debug/MedScheduleRemastered.csproj.FileListAbsolute.txt
+#	new file:   MedScheduleRemastered/obj/Debug/MedScheduleRemastered.csprojResolveAssemblyReference.cache
+#	new file:   MedScheduleRemastered/obj/Debug/MedScheduleRemastered.exe
+#	new file:   MedScheduleRemastered/obj/Debug/MedScheduleRemastered.pdb
+#	new file:   MedScheduleRemastered/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   MedScheduleRemastered/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   MedScheduleRemastered/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#
+
